@@ -1,0 +1,4 @@
+wordpess ansible_host=159.223.110.161
+
+
+wordpress ansible_host=64.227.29.65
