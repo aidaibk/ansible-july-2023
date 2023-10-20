@@ -1,0 +1,11 @@
+url_package: https://wordpress.org/latest.tar.gz
+
+destination: /tmp/wordpress.tar.gz
+
+source_pack: /tmp/wordpress.tar.gz
+
+owner: apache
+
+group: apache
+
+package: httpd
