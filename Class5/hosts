@@ -1,0 +1,9 @@
+[do]
+
+buki ansible_host=206.189.207.58
+worker1 ansible_host=206.189.179.5
+
+[aws]
+
+worker2 ansible_host=18.220.76.63 ansible_user=ec2-user
+worker3 ansible_host=18.118.213.129 ansible_user=ec2-user
